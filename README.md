@@ -34,3 +34,28 @@ El programa permite al usuario ingresar dos números y obtener los resultados de
 
 ```bash
 dart run
+```
+
+---
+
+## 🛠️ Construido con
+
+- Dart SDK
+- Android Studio
+
+---
+
+## 📦 Versionado
+
+- Dart SDK 3.x
+- Proyecto base de consola
+
+---
+
+## 👨‍💻 Autor
+Juan Manuel Eraso Grijalba
+
+---
+
+## 🙏 Agradecimientos
+Aprende paso a paso, porque lo importante no es ir rápido, sino avanzar constantemente 🚀
