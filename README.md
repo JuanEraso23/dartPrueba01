@@ -19,7 +19,6 @@ El programa permite al usuario ingresar dos números y obtener los resultados de
 - Estructuras de control (condicionales).
 - Organización básica del proyecto en carpetas (`bin`, `lib`, `test`).
 - Implementación de operaciones matemáticas:
-
   - Suma  
   - Resta  
   - Multiplicación  
@@ -32,9 +31,9 @@ El programa permite al usuario ingresar dos números y obtener los resultados de
 1. Abrir una terminal en la carpeta del proyecto.
 2. Ejecutar el siguiente comando:
 
-```bash
-dart run
-```
+  ```bash
+  dart run
+  ```
 
 ---
 
