@@ -1,10 +1,10 @@
-# 📱 Dispositivos Moviles
+# Dispositivos Moviles
 
 Proyecto desarrollado en Dart como una aplicación de consola que implementa una calculadora básica, permitiendo realizar operaciones matemáticas fundamentales.
 
 ---
 
-## 📌 Descripción
+## Descripción
 
 Este proyecto corresponde a una aplicación sencilla en Dart cuyo propósito es reforzar los conceptos básicos del lenguaje, como estructuras de control, entrada de datos y organización en archivos.
 
@@ -12,7 +12,7 @@ El programa permite al usuario ingresar dos números y obtener los resultados de
 
 ---
 
-## ⚙️ Características del programa
+## Características del programa
 
 - Uso de variables y tipos de datos en Dart.
 - Entrada de datos por consola.
@@ -27,7 +27,7 @@ El programa permite al usuario ingresar dos números y obtener los resultados de
 
 ---
 
-## 🚀 Ejecución
+## Ejecución
 
 1. Abrir una terminal en la carpeta del proyecto.
 2. Ejecutar el siguiente comando:
@@ -38,24 +38,24 @@ dart run
 
 ---
 
-## 🛠️ Construido con
+## Construido con
 
 - Dart SDK
 - Android Studio
 
 ---
 
-## 📦 Versionado
+## Versionado
 
 - Dart SDK 3.x
 - Proyecto base de consola
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 Juan Manuel Eraso Grijalba
 
 ---
 
-## 🙏 Agradecimientos
+## Agradecimientos
 Aprende paso a paso, porque lo importante no es ir rápido, sino avanzar constantemente 🚀
